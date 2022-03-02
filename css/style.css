@@ -1,0 +1,422 @@
+.contact-btn{
+    background-color: transparent;
+    border: 2px solid gray;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border-radius: 12px;
+}
+.bg-oscuro{
+    background-color: #28293E;
+}
+.bg-claro{
+    background-color: #FDF0E9;
+}
+section, footer {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+.section-1 button {
+    background-color: #EF6D58;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border-radius: 12px;
+    font-style: bold;
+}
+.section-1 h1{
+    color: white;
+    font-size: 65px;
+    padding-bottom: 20px;
+    font-style: bold;
+}
+.section-1 h3{
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.section-1 h2{
+    color: #EF6D58;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.section-1 h4{
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.section-1-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-2 h1{
+    color: #EF6D58;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.section-2 h2{
+    color: black;
+    font-size: 65px;
+    padding-bottom: 20px;
+    font-style: bold;
+}
+.service{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5vh;
+}
+i{
+    background-color: #EF6D58;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+.section-2 .learn-more{
+    background-color: white;
+    border: none;
+    color: #EF6D58;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px 0px #888888;
+}
+.learn-block{
+    border: 2px solid #ef6c5880;
+}
+.orange-divider{
+    border: 1px solid #ef6c5880;
+}
+.gray-divider{
+    border: 1px solid #74747480;
+}
+.learn-block-wh{
+    border: 2px solid #ef6c5880;
+    background-color: white;
+}
+.learn-card{
+    padding: 5%;
+}
+.section-2 h3{
+    color: black;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.section-2 h4{
+    color: rgb(95, 95, 95);
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.section-2 h6{
+    color: rgb(95, 95, 95);
+    font-size: 20px;
+    padding-top: 30px;
+}
+.section-2 h6 a{
+    color: black;
+    text-decoration: none;
+}
+.section-2 h5{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.section-3 .tarjeta{
+    border: 2px solid gray;
+}
+.section-3 .tarjeta .bg-image-1{
+    background: url("../img/1x/Recurso1.png");
+    padding: 45px;
+    padding-top: 60vh;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+}
+.section-3 .tarjeta .bg-image-2{
+    background: url("../img/1x/Recurso2.png");
+    padding: 45px;
+    padding-top: 60vh;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+}
+.section-3 .tarjeta .bg-image-3{
+    background: url("../img/1x/Recurso3.png");
+    padding: 45px;
+    padding-top: 60vh;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+}
+.explore-btn{
+    background-color: transparent;
+    border: 2px solid gray;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border-radius: 12px;
+}
+.section-3 h1{
+    color: #EF6D58;
+    padding-bottom: 4vh;
+    font-size: 24px;
+}
+.section-3 h2{
+    color: white;
+    padding-bottom: 10vh;
+    font-size: 70px;
+}
+.section-3 h3{
+    color: white;
+    padding-top: 4vh;
+    font-size: 60px;
+}
+.section-3-btn{
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    border: 2px solid white;
+}
+
+.section-4 button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border-radius: 12px;
+    font-style: bold;
+}
+.section-4 h1{
+    color: black;
+    font-size: 65px;
+    padding-bottom: 20px;
+    font-style: bold;
+}
+.section-4 h3{
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.section-4 h2{
+    color: #EF6D58;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.section-6{
+    background-color: #F9E5DA;
+}
+.section-6 h1{
+    color: black;
+    font-size: 30px;
+}
+.section-7-btn{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border: 2px solid white;
+    box-shadow: 0 0 5px 0px #888888;
+}
+.section-7-input{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 15px;
+    width: 60%;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border: 2px solid white;
+    box-shadow: 0 0 5px 0px #888888;
+}
+
+.gold-star{
+    background-color: transparent;
+    border: none;
+    color: gold;
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 5vh;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+}
+
+.section-1 h5{
+    color: white;
+}
+
+.faq-block{
+    border: 2px solid #81818180;
+}
+.faq-block-wh{
+    border: 2px solid #81818180;
+    background-color: white;
+}
+
+.section-8 h1{
+    color: #EF6D58;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.section-8 h2{
+    color: black;
+    font-size: 65px;
+    padding-bottom: 20px;
+    font-style: bold;
+}
+.section-8 h3{
+    color: black;
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.section-8 h4{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.section-8 h5{
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.form-input{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 15px;
+    width: 100%;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border: 2px solid #ef6c5870;
+}
+.last-section button {
+    background-color: #EF6D58;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border-radius: 12px;
+    font-style: bold;
+}
+.last-section h1{
+    color: black;
+    font-size: 65px;
+    padding-bottom: 20px;
+    font-style: bold;
+}
+.last-section h3{
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.last-section h2{
+    color: #EF6D58;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+footer h1{
+    color: white;
+    font-size: 16px;
+}
+footer h2{
+    color: #EF6D58;
+    font-size: 16px;
+}
+footer h3{
+    color: white;
+    font-size: 20px;
+}
+footer h4{
+    color: gray;
+    font-size: 20px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+.circle-i{
+    background-color: #EF6D58;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+footer i{
+    background-color: #EF6D58;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    font-size: 30px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.img-present {
+    margin-top: -230px;
+    width: auto;
+}
